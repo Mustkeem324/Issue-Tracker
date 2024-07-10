@@ -1,4 +1,4 @@
-]# Issue Tracker
+# Issue Tracker
 
 ## Problem Statement
 Create a Node.js + EJS application to track issues/bugs for a project. This project draws inspiration from GitHub issue tracker and similar applications.
